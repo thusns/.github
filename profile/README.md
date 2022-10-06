@@ -1,4 +1,5 @@
 # Student Network Service, Tsinghua University
+![cover](https://user-images.githubusercontent.com/79493862/194301621-335c7153-208b-466b-a036-0cf0f8f0972d.png)
 
 清华大学学生网络服务队（Student Network Service）是信息化技术中心（原网络中心、计算中心和电教中心合并）和学生处勤工助学大队共同管理的学生勤工组织，协助信息化技术中心，接听服务热线电话、在用户服务大厅接待用户来访、解答师生关于学校信息系统和校园网络的咨询和问题，经验丰富、能力较强的队员还可参与上门网络检查和系统测试等技术支持工作。
 
