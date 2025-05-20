@@ -1,12 +1,12 @@
 # Student Network Service, Tsinghua University
 ![cover](https://user-images.githubusercontent.com/79493862/194301621-335c7153-208b-466b-a036-0cf0f8f0972d.png)
 
-清华大学学生网络服务队（Student Network Service）是信息化技术中心（原网络中心、计算中心和电教中心合并）和学生处勤工助学大队共同管理的学生勤工组织，协助信息化技术中心，接听服务热线电话、在用户服务大厅接待用户来访、解答师生关于学校信息系统和校园网络的咨询和问题，经验丰富、能力较强的队员还可参与上门网络检查和系统测试等技术支持工作。
+The Student Network Service (SNS) at Tsinghua University is a student work-study organization jointly managed by the Information Technology Center (formerly the Network Center, Computing Center, and Educational Technology Center) and the Student Affairs Office Work-Study Team. SNS assists the Information Technology Center by answering hotline calls, receiving visitors at the User Service Hall, and providing consultation and support regarding the university’s information systems and campus network to faculty and students. Experienced and capable team members may also participate in on-site network inspections and system testing for technical support.
 
-服务热线：010-62784859, 010-62771940
+Hotline: 010-62784859, 010-62771940
 
-服务时间：08:00 - 22:00
+Service Hours: 08:00 - 22:00
 
-微信公众号：学生网服 SNS
+WeChat Official Account: Student Network Service SNS
 
-技术博客：[https://blog.thusns.net](https://blog.thusns.net)
+Technical Blog: [https://blog.thusns.net](https://blog.thusns.net)
